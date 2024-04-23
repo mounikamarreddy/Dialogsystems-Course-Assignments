@@ -1,3 +1,3 @@
 Hello All,
 
-This folder consists the details regarding the assignment 1. The file "Assignment1-DialogSystems.docx" contains the explanation related to the dataset and the tasks you need to perform. The zip file "subreddit_links.zip" contains the dataset. The third "Assignment1-Notebook.ipynb" is the ipython notebook, it will help you to understand what to do, fill the cells accordingly to get the desired results. The evaluation is done on this notebook.
+This folder contains all the details for Assignment 1. The file "Assignment1-DialogSystems.docx" provides an explanation of the dataset and outlines the tasks you need to complete. The zip file "subreddit_links.zip" includes the dataset. Additionally, the "Assignment1-Notebook.ipynb" iPython notebook will guide you through the process; please fill in the cells as instructed to achieve the desired results. The evaluation will be conducted using this notebook.
